@@ -1,0 +1,36 @@
+{
+  "ModId": "FlatOut2.Utils.MPNameChange",
+  "ModName": "FlatOut 2 MP Name Change",
+  "ModAuthor": "Sewer56",
+  "ModVersion": "1.0.0",
+  "ModDescription": "Changes your name in multiplayer mode.",
+  "ModDll": "FlatOut2.Utils.MPNameChange.dll",
+  "ModIcon": "Preview.png",
+  "ModR2RManagedDll32": "x86/FlatOut2.Utils.MPNameChange.dll",
+  "ModR2RManagedDll64": "x64/FlatOut2.Utils.MPNameChange.dll",
+  "ModNativeDll32": "",
+  "ModNativeDll64": "",
+  "Tags": [],
+  "CanUnload": null,
+  "HasExports": null,
+  "IsLibrary": false,
+  "ReleaseMetadataFileName": "FlatOut2.Utils.MPNameChange.ReleaseMetadata.json",
+  "PluginData": {
+    "GitHubRelease": {
+      "UserName": "Sewer56",
+      "RepositoryName": "FlatOut2.Utils.MPNameChange",
+      "UseReleaseTag": true,
+      "AssetFileName": "Mod.zip"
+    }
+  },
+  "IsUniversalMod": false,
+  "ModDependencies": [
+    "Reloaded.Memory.SigScan.ReloadedII",
+    "reloaded.sharedlib.hooks"
+  ],
+  "OptionalDependencies": [],
+  "SupportedAppId": [
+    "flatout2.exe"
+  ],
+  "ProjectUrl": "https://github.com/Sewer56/FlatOut2.Utils.MPNameChange"
+}
